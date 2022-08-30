@@ -135,6 +135,19 @@
     text-align: center;
 }
 
+.main_page_icon_placement {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+  
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 .download_h {
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
