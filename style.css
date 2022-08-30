@@ -1,0 +1,143 @@
+.heading {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 70px;
+	color: black;
+	text-transform: uppercase;
+}
+
+.updates {
+	font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+	color: black;
+}
+
+.other {
+	font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+	color: black;
+}
+
+.about {
+	font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+	color: black;
+}
+
+.footer {
+	font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 15px;
+	color: black;
+}
+
+.other_link {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: none;
+	color: #00FFCD;
+}
+
+.other_link a {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: none;
+	color: #00FFCD;
+
+}
+
+.download_link {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 45px;
+    text-decoration: none;
+	color: #00FFCD;
+}
+
+.download_link a {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 45px;
+    text-decoration: none;
+	color: #00FFCD;
+
+}
+
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+    font-family: 'Roboto Mono', monospace;
+	color: black;
+}
+
+.left-side {
+   display:  flex;
+   font-family: 'Roboto Mono', monospace;
+	color: black;
+}
+
+.nav-wrapper > .left-side > div {
+   margin-right: 20px;
+   font-size: 2em;
+   text-transform: uppercase;
+	color: black;
+   font-family: 'Roboto Mono', monospace;
+}
+
+.nav-link-wrapper {
+   height: 37px;
+	color: black;
+   border-bottom: 3px solid transparent;
+   transition: border-bottom 0.5s;
+   font-family: 'Roboto Mono', monospace;
+}
+
+.nav-link-wrapper a {
+   text-decoration: none;
+   transition: color 0.5s;
+	color: black;
+   font-family: 'Roboto Mono', monospace;
+}
+
+.nav-link-wrapper:hover {
+   border-bottom: 3px solid;
+   font-family: 'Roboto Mono', monospace;
+	color: black;
+}
+
+.nav-link-wrapper a:hover {
+   font-family: 'Roboto Mono', monospace;
+	color: black;
+}
+
+.heading_2 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 55px;
+	color: black;
+}
+
+.heading_3 {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 35px;
+	color: black;
+}
+
+.img {
+    text-align: center;
+}
+
+.download_h {
+	font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 55px;
+	color: black;
+}
