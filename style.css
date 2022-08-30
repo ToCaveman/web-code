@@ -136,7 +136,7 @@
 }
 
 .main_page_icon_placement {
-    float: left;
+    /* float: left; */
     width: 33.33%;
     padding: 5px;
 }
