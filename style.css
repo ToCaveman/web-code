@@ -2,7 +2,7 @@
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 70px;
-	color: black;
+	color: rgb(255, 255, 255);
 	text-transform: uppercase;
 }
 
@@ -10,28 +10,28 @@
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 35px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .other {
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 35px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .about {
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 35px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .footer {
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 15px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .other_link {
@@ -70,30 +70,32 @@
 
 
 .nav-wrapper {
-    display: flex;
+     display: flex;
     justify-content: space-between;
+    text-align: center;
     padding: 38px;
     font-family: 'Roboto Mono', monospace;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .left-side {
    display:  flex;
    font-family: 'Roboto Mono', monospace;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .nav-wrapper > .left-side > div {
    margin-right: 20px;
    font-size: 2em;
    text-transform: uppercase;
-	color: black;
+    color: rgb(255, 255, 255);
    font-family: 'Roboto Mono', monospace;
 }
 
 .nav-link-wrapper {
    height: 37px;
-	color: black;
+   text-align: center;
+	color: rgb(255, 255, 255);
    border-bottom: 3px solid transparent;
    transition: border-bottom 0.5s;
    font-family: 'Roboto Mono', monospace;
@@ -101,34 +103,37 @@
 
 .nav-link-wrapper a {
    text-decoration: none;
+   text-align: center;
    transition: color 0.5s;
-	color: black;
+	color: rgb(255, 255, 255);
    font-family: 'Roboto Mono', monospace;
 }
 
 .nav-link-wrapper:hover {
    border-bottom: 3px solid;
+   text-align: center;
    font-family: 'Roboto Mono', monospace;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .nav-link-wrapper a:hover {
    font-family: 'Roboto Mono', monospace;
-	color: black;
+   text-align: center;
+	color: rgb(255, 255, 255);
 }
 
 .heading_2 {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 55px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .heading_3 {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 35px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
 
 .img {
@@ -152,5 +157,5 @@
 	font-family: 'Roboto Mono', monospace;
     text-align: center;
     font-size: 55px;
-	color: black;
+	color: rgb(255, 255, 255);
 }
